@@ -1,3 +1,4 @@
+from math import trunc
 def days(data):
     impact = {}
     severeImpact = {}
